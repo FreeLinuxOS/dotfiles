@@ -2,7 +2,7 @@
 ### Download and change folder
 ```
 cd ~
-git clone https://github.com/FreeLinuxOS/dotfiles.git
+git clone https://github.com/linuxbin/dotfiles.git
 
 cd dotfiles
 ```
